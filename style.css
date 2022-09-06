@@ -1,0 +1,21 @@
+.bg-page{
+    background-color: aquamarine;
+}
+.box-output{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.card-item{
+    width: 150px;
+    border: 1.5px solid black;
+    text-align: center;
+
+}
+
+.img-item{
+    width: 80px;
+    height: 80px;
+}
